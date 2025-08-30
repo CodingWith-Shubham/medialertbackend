@@ -35,7 +35,7 @@ Gemini API (for AI-powered symptom analysis)
 Google Maps API (for location tracking)
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/medialert.git
+git clone <repo url>
 cd medialert
 
 2️⃣ Install dependencies
